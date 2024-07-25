@@ -1,4 +1,6 @@
 Software Details 
 
 Software      Version
-SQl            2010 
+
+SQl            201010
+
